@@ -1,0 +1,6 @@
+{
+  "name": "Sai Calculator Pro",
+  "description": "Comprehensive scientific calculator inspired by fx-991CW with 540+ functions, natural textbook display, and advanced modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
